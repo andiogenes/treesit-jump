@@ -101,6 +101,8 @@
                           (html-ts-mode . "html")
                           (java-mode . "java")
                           (java-ts-mode . "java")
+                          (scala-mode . "scala")
+                          (scala-ts-mode . "scala")
                           (javascript-mode . "javascript")
                           (javascript-ts-mode . "javascript")
                           (js-mode . "javascript")
